@@ -54,6 +54,7 @@
 |نام|ایمیل|لینکدین|
 |---|---|--|
 |سجاد فقفور مغربی|faghfoormaghrebi@ce.sharif.edu|[To My LinkedIn](https://www.linkedin.com/in/sadjad-faqfoor-maqrebi/)|
+|امیر محمد محمدی|a.m.mohammadi266@gmail.com||
 |محمد نامدار|||
 
 </div>
