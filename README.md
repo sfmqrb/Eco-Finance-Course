@@ -53,7 +53,7 @@
 # ارتباط با ما
 |نام|ایمیل|لینکدین|
 |---|---|--|
-|سجاد فقفور مغربی|sajad.faghfoor@gmail.com|[To My LinkedIn](https://www.linkedin.com/in/sadjad-faqfoor-maqrebi/)|
+|سجاد فقفور مغربی|sajad.faghfoor@gmail.com|[My LinkedIn](https://www.linkedin.com/in/sadjad-faqfoor-maqrebi/)|
 |امیر محمد محمدی|a.m.mohammadi266@gmail.com||
 |محمد نامدار|mohamad0namdar@gmail.com|[My LinkedIn](https://www.linkedin.com/in/mohammad-namdar-670b72172/)|
 
