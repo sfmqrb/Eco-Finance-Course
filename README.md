@@ -55,7 +55,7 @@
 |---|---|--|
 |سجاد فقفور مغربی|sajad.faghfoor@gmail.com|[To My LinkedIn](https://www.linkedin.com/in/sadjad-faqfoor-maqrebi/)|
 |امیر محمد محمدی|a.m.mohammadi266@gmail.com||
-|محمد نامدار|||
+|محمد نامدار|mohamad0namdar@gmail.com||
 
 </div>
 <div dir = 'ltr'>
